@@ -47,7 +47,7 @@ Ulangi langkah-langkah di atas. Setelah tahu apa yang dibuat, pahami flownya →
 
 ## Tentang Penulis
 
-Lalu Wahyudi | [Linkin](https://www.linkedin.com/in/lalu-wahyudi-43475a38b/) 
+Lalu Wahyudi | [Linkin](https://www.linkedin.com/in/lalu-wahyudi) 
 
 
 
