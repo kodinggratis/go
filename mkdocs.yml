@@ -1,0 +1,47 @@
+site_name: Belajar Go (Golang)
+site_description: Panduan project-based belajar Go untuk menjadi programmer tangguh.
+site_author: Lalu Wahyudi
+site_url: https://kodinggratis.github.io/go
+
+theme:
+  name: readthedocs
+  custom_dir: overrides
+
+nav:
+  - Home: index.md
+  - Panduan Belajar: belajar.md
+  - Pembelajaran Inti:
+      - I Sejarah dan Pengenalan Go: pelajaran/01-sejarah.md
+      - II Instalasi Go: pelajaran/02-instalasi.md
+      - III Struktur Program Go: pelajaran/03-struktur-program.md
+      - IV Variabel dan Tipe Data: pelajaran/04-variabel-tipe-data.md
+      - V Fungsi: pelajaran/05-fungsi.md
+      - VI Kondisi dan Percabangan: pelajaran/06-kondisi.md
+      - VII Perulangan: pelajaran/07-perulangan.md
+      - VIII Array, Slice, Map: pelajaran/08-array-slice-map.md
+      - IX Struct dan Method: pelajaran/09-struct.md
+      - X Interface: pelajaran/10-interface.md
+      - XI Error Handling: pelajaran/11-error-handling.md
+      - XII Goroutine dan Channel: pelajaran/12-goroutine.md
+      - XIII Package dan Modul: pelajaran/13-package.md
+      - XIV Project Go Sederhana: pelajaran/14-project-sederhana.md
+      - XV Build & Deploy: pelajaran/15-build-deploy.md
+  - Pembelajaran Praktek:
+      - RESTful API: praktek/rest-api.md
+      - gRPC API: praktek/grpc-api.md
+      - GraphQL API: praktek/graphql-api.md
+  - Tentang: tentang.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - tables
+  - footnotes
+
+extra_css:
+  - css/custom.css
+
+copyright: >
+  © 2025 Koding Gratis by Lalu Wahyudi. Dibuat dengan MkDocs dan semangat belajar terbuka.
