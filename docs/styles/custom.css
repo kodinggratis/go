@@ -61,5 +61,10 @@ a {
 }
 
 a {
-  color: #002880;
+  color: var(--primary-color);
+}
+
+.wy-menu-vertical .toctree-l1.current a {
+  background-color: var(--neutral-color) !important;
+  color: var(--text-color) !important;
 }
