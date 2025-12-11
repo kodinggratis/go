@@ -1,0 +1,70 @@
+:root {
+  --primary-color: #002880;
+  --secondary-color: #00ffa2;
+  --accent-color: #ffeb3b;
+  --text-color: #333333;
+  --neutral-color: #ffffff;
+}
+
+.wy-nav-content {
+  max-width: 100% !important;
+}
+
+.wy-nav-content {
+  padding: 2rem !important;
+}
+
+.wy-side-nav-search {
+  background-color: var(--secondary-color) !important;
+  color: var(--text-color);
+}
+
+.wy-side-nav-search a.icon.icon-home {
+  color: var(--text-color);
+}
+.wy-nav-top {
+  background-color: var(--secondary-color);
+  color: var(--text-color);
+}
+.wy-nav-top a {
+  color: var(--text-color);
+}
+
+.wy-menu {
+  background-color: var(--text-color);
+}
+
+.wy-menu a.reference.internal {
+  color: var(--neutral-color);
+}
+.wy-menu a.reference.internal.current {
+  color: var(--text-color);
+}
+
+.wy-menu,
+.caption-text {
+  color: var(--secondary-color);
+}
+
+.wy-nav-content {
+  background-color: var(--neutral-color);
+  color: var(--text-color);
+}
+.wy-breadcrumbs a.icon.icon-home {
+  color: var(--primary-color);
+}
+
+.mkdocs-search-results,
+h3,
+a {
+  color: var(--primary-color);
+}
+
+a {
+  color: var(--primary-color);
+}
+
+.wy-menu-vertical .toctree-l1.current a {
+  background-color: var(--neutral-color) !important;
+  color: var(--text-color) !important;
+}
