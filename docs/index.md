@@ -5,7 +5,7 @@
 
 Panduan belajar **golang (go)** dengan teknik **deep & wide** untuk mejadi **spesialis golang**. Materi disusun agar mudah dipahami dan tetap berfokus pada tujuan utama: membentuk spesialis Go (_Be spesialist Go_).
 
-Project ini kami **prioritaskan** untuk:
+Project ini kami **prioritaskan** untuk:  
 - Anak yatim
 - yang tidak atau putus sekolah
 - wilayah yang 3T, termasuk Papua, NTT dll.
