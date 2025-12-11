@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "buildCommand": "./build.sh",
+  "outputDirectory": "site",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
